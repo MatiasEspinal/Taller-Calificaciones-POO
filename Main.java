@@ -49,6 +49,7 @@ public class Main {
                     break;
                 case 4:
                     curso.ordenarPorPromedio();
+                    curso.mostrarResumenCurso();
                     break;
                 case 5:
                     System.out.print("\nIngrese el nombre del estudiante a buscar: ");
